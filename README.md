@@ -144,22 +144,7 @@ A smart telemetry system that monitors real-time voltage, current, and power fac
 
 <br />
 
-<!-- GitHub Statistics Section -->
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=sarveshwaran777&show_icons=true&bg_color=030712&title_color=00f2fe&text_color=9ca3af&icon_color=4facfe&border_color=1f2937&border_radius=8" alt="Sarveshwaran's GitHub Stats" height="195" />
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=sarveshwaran777&theme=tokyonight&hide_border=true" alt="Sarveshwaran's Streak Stats" height="195" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sarveshwaran777&layout=compact&bg_color=030712&title_color=00f2fe&text_color=9ca3af&icon_color=4facfe&border_color=1f2937&border_radius=8" alt="Sarveshwaran's Top Languages" height="195" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarveshwaran777&bg_color=030712&color=9ca3af&line=00f2fe&point=ffffff&area=true&hide_border=true" alt="Sarveshwaran's Activity Graph" height="195" />
-</p>
-
-<br />
 
 <!-- Achievements Section -->
 ## 🏆 Key Achievements
