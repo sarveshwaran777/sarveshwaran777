@@ -6,7 +6,7 @@
   </p>
   <p align="center">
     <a href="https://github.com/sarveshwaran777">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsarveshwaran777%2Fsarveshwaran777&count_bg=%2300f2fe&title_bg=%230f172a&title=Views&edge_flat=false" alt="Views" />
+      <img src="https://api.visitorbadge.io/api/visitors?path=sarveshwaran777&label=Views&labelColor=%230f172a&countColor=%2300f2fe&style=flat-square" alt="Views" />
     </a>
   </p>
 </div>
@@ -150,7 +150,7 @@ A smart telemetry system that monitors real-time voltage, current, and power fac
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=sarveshwaran777&show_icons=true&bg_color=030712&title_color=00f2fe&text_color=9ca3af&icon_color=4facfe&border_color=1f2937&border_radius=8" alt="Sarveshwaran's GitHub Stats" height="195" />
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=sarveshwaran777&background=030712&title=00f2fe&currStreakLabel=4facfe&currStreakNum=ffffff&sideNums=ffffff&sideLabels=9ca3af&ring=00f2fe&fire=4facfe&border=1f2937&border_radius=8" alt="Sarveshwaran's Streak Stats" height="195" />
+  <img src="https://streak-stats.demolab.com/?user=sarveshwaran777&theme=tokyonight&hide_border=true" alt="Sarveshwaran's Streak Stats" height="195" />
 </p>
 
 <p align="center">
@@ -179,11 +179,11 @@ A smart telemetry system that monitors real-time voltage, current, and power fac
     <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=00f2fe&labelColor=0f172a" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sarveshwaran-m-9b8913351/" target="_blank">
+  <a href="https://www.linkedin.com/in/sarveshwaran-m/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=00f2fe&labelColor=0f172a" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:sarvesh729.07@gmail.com">
+  <a href="mailto:sarveshwaran.m.eee@gmail.com">
     <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=00f2fe&labelColor=0f172a" alt="Email" />
   </a>
 </div>
