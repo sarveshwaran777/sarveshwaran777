@@ -109,7 +109,7 @@ I am a passionate **Electrical & Electronics Engineering (EEE) student** focused
 ### 💬 FloatChat
 AI-powered chatbot designed for querying and visualizing ARGO ocean data. Integrates LLMs to let researchers explore oceanic trends and vertical profiles easily.
 *   **Tech Stack:** Python, FastAPI, React
-*   [View Project →](https://github.com/sarveshwaran777/FloatChat)
+*   [View Project →](https://github.com/sasmithas0909-stack/FloatChat)
 
 ### 🛡️ AI Supply Chain Guardian
 An intelligent demand forecasting and risk mitigation platform for MSMEs. Employs predictive modeling to optimize inventory levels and safeguard supply chains.
