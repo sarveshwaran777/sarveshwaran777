@@ -31,16 +31,7 @@ I am a passionate **Electrical & Electronics Engineering (EEE) student** focused
 
 <br />
 
-<!-- Trophies Section -->
-## 🏆 GitHub Milestones & Trophies
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sarveshwaran777&theme=darkhub&no-background=true&no-border=true&margin-w=15&column=5" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<br />
 
 <!-- Tech Stack Section -->
 ## 🛠️ Tech Stack & Skills
