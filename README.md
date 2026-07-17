@@ -31,6 +31,17 @@ I am a passionate **Electrical & Electronics Engineering (EEE) student** focused
 
 <br />
 
+<!-- Trophies Section -->
+## 🏆 GitHub Milestones & Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sarveshwaran777&theme=darkhub&no-background=true&no-border=true&margin-w=15&column=5" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<br />
+
 <!-- Tech Stack Section -->
 ## 🛠️ Tech Stack & Skills
 
@@ -70,6 +81,15 @@ I am a passionate **Electrical & Electronics Engineering (EEE) student** focused
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Tailwind_CSS-0f172a?style=flat-square&logo=tailwindcss&logoColor=00f2fe" alt="Tailwind CSS" height="28" />
   </a>
+</p>
+
+### 🔌 Hardware & Embedded Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/-Arduino-0f172a?style=flat-square&logo=arduino&logoColor=00f2fe" alt="Arduino" height="28" />&nbsp;
+  <img src="https://img.shields.io/badge/-ESP32_%2F_ESP8266-0f172a?style=flat-square&logo=espressif&logoColor=00f2fe" alt="ESP32 / ESP8266" height="28" />&nbsp;
+  <img src="https://img.shields.io/badge/-Raspberry_Pi-0f172a?style=flat-square&logo=raspberrypi&logoColor=00f2fe" alt="Raspberry Pi" height="28" />&nbsp;
+  <img src="https://img.shields.io/badge/-STM32-0f172a?style=flat-square&logo=stmicroelectronics&logoColor=00f2fe" alt="STM32" height="28" />&nbsp;
+  <img src="https://img.shields.io/badge/-I2C_%2F_SPI_%2F_UART-0f172a?style=flat-square&logo=micro-strategy&logoColor=00f2fe" alt="Protocols" height="28" />
 </p>
 
 ### 🗄️ Databases
@@ -143,8 +163,6 @@ A smart telemetry system that monitors real-time voltage, current, and power fac
 *   [View Project →](https://github.com/sarveshwaran777/Power-Quality-Monitoring-System)
 
 <br />
-
-
 
 <!-- Achievements Section -->
 ## 🏆 Key Achievements
