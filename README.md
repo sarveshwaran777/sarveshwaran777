@@ -179,11 +179,11 @@ A smart telemetry system that monitors real-time voltage, current, and power fac
     <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=00f2fe&labelColor=0f172a" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sarveshwaran-m/" target="_blank">
+  <a href="https://www.linkedin.com/in/sarveshwaran-m-9b8913351/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=00f2fe&labelColor=0f172a" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:sarveshwaran.m.eee@gmail.com">
+  <a href="mailto:sarvesh729.07@gmail.com">
     <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=00f2fe&labelColor=0f172a" alt="Email" />
   </a>
 </div>
