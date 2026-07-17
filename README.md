@@ -18,6 +18,12 @@
 
 I am a passionate **Electrical & Electronics Engineering (EEE) student** focused on building intelligent systems at the intersection of hardware and software. My core interests lie in **Artificial Intelligence, the Internet of Things (IoT), Robotics, Embedded Systems**, and **Full Stack Development**. I am dedicated to applying engineering principles to solve real-world industrial and telemetry problems.
 
+### ⚡ Focus Areas
+
+| 🎓 Major | 🛠️ Current Focus | 🤖 Primary Passion |
+| :--- | :--- | :--- |
+| **Electrical & Electronics** | **Edge AI & IoT Systems** | **Robotics & Automation** |
+
 * 🎓 Pursuing a **B.E. in Electrical & Electronics Engineering**
 * 💡 Passionate about **AI, IoT, Robotics, Embedded Systems, and Full Stack Development**
 * 🛠️ Driven to architect and deploy practical solutions for industrial challenges
@@ -26,78 +32,78 @@ I am a passionate **Electrical & Electronics Engineering (EEE) student** focused
 <br />
 
 <!-- Tech Stack Section -->
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
 ### 💻 Languages
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/python/00f2fe" alt="python" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Python-0f172a?style=flat-square&logo=python&logoColor=00f2fe" alt="Python" height="28" />
+  </a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/c/00f2fe" alt="c" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-C-0f172a?style=flat-square&logo=c&logoColor=00f2fe" alt="C" height="28" />
+  </a>&nbsp;
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/java/00f2fe" alt="java" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Java-0f172a?style=flat-square&logo=openjdk&logoColor=00f2fe" alt="Java" height="28" />
+  </a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/javascript/00f2fe" alt="javascript" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=00f2fe" alt="JavaScript" height="28" />
+  </a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/html5/00f2fe" alt="html5" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-HTML5-0f172a?style=flat-square&logo=html5&logoColor=00f2fe" alt="HTML5" height="28" />
+  </a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/css3/00f2fe" alt="css3" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-CSS3-0f172a?style=flat-square&logo=css3&logoColor=00f2fe" alt="CSS3" height="28" />
   </a>
 </p>
 
 ### 🚀 Frameworks & Libraries
 <p align="left">
   <a href="https://react.dev" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/react/00f2fe" alt="react" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-React-0f172a?style=flat-square&logo=react&logoColor=00f2fe" alt="React" height="28" />
+  </a>&nbsp;
   <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/fastapi/00f2fe" alt="fastapi" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-FastAPI-0f172a?style=flat-square&logo=fastapi&logoColor=00f2fe" alt="FastAPI" height="28" />
+  </a>&nbsp;
   <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/flask/00f2fe" alt="flask" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Flask-0f172a?style=flat-square&logo=flask&logoColor=00f2fe" alt="Flask" height="28" />
+  </a>&nbsp;
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/tailwindcss/00f2fe" alt="tailwindcss" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-0f172a?style=flat-square&logo=tailwindcss&logoColor=00f2fe" alt="Tailwind CSS" height="28" />
   </a>
 </p>
 
 ### 🗄️ Databases
 <p align="left">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/postgresql/00f2fe" alt="postgresql" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=00f2fe" alt="PostgreSQL" height="28" />
+  </a>&nbsp;
   <a href="https://www.sqlite.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/sqlite/00f2fe" alt="sqlite" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-SQLite-0f172a?style=flat-square&logo=sqlite&logoColor=00f2fe" alt="SQLite" height="28" />
+  </a>&nbsp;
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/firebase/00f2fe" alt="firebase" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Firebase-0f172a?style=flat-square&logo=firebase&logoColor=00f2fe" alt="Firebase" height="28" />
   </a>
 </p>
 
 ### 🔧 Tools & Platforms
 <p align="left">
   <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/git/00f2fe" alt="git" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Git-0f172a?style=flat-square&logo=git&logoColor=00f2fe" alt="Git" height="28" />
+  </a>&nbsp;
   <a href="https://github.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/github/00f2fe" alt="github" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-GitHub-0f172a?style=flat-square&logo=github&logoColor=00f2fe" alt="GitHub" height="28" />
+  </a>&nbsp;
   <a href="https://www.docker.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/docker/00f2fe" alt="docker" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Docker-0f172a?style=flat-square&logo=docker&logoColor=00f2fe" alt="Docker" height="28" />
+  </a>&nbsp;
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/visualstudiocode/00f2fe" alt="visualstudiocode" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-VS_Code-0f172a?style=flat-square&logo=visual-studio-code&logoColor=00f2fe" alt="VS Code" height="28" />
+  </a>&nbsp;
   <a href="https://www.arduino.cc" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/arduino/00f2fe" alt="arduino" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Arduino_IDE-0f172a?style=flat-square&logo=arduino&logoColor=00f2fe" alt="Arduino IDE" height="28" />
+  </a>&nbsp;
   <a href="https://www.figma.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/figma/00f2fe" alt="figma" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Figma-0f172a?style=flat-square&logo=figma&logoColor=00f2fe" alt="Figma" height="28" />
   </a>
 </p>
 
@@ -142,19 +148,15 @@ A smart telemetry system that monitors real-time voltage, current, and power fac
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarveshwaran777&show_icons=true&theme=transparent&title_color=00f2fe&text_color=c9d1d9&icon_color=4facfe&hide_border=true" alt="Sarveshwaran's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarveshwaran777&show_icons=true&bg_color=030712&title_color=00f2fe&text_color=9ca3af&icon_color=4facfe&border_color=1f2937&border_radius=8" alt="Sarveshwaran's GitHub Stats" height="195" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarveshwaran777&background=030712&title=00f2fe&currStreakLabel=4facfe&currStreakNum=ffffff&sideNums=ffffff&sideLabels=9ca3af&ring=00f2fe&fire=4facfe&border=1f2937&border_radius=8" alt="Sarveshwaran's Streak Stats" height="195" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarveshwaran777&background=00000000&title=00f2fe&currStreakLabel=4facfe&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&ring=00f2fe&fire=4facfe&hide_border=true" alt="Sarveshwaran's Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshwaran777&layout=compact&theme=transparent&title_color=00f2fe&text_color=c9d1d9&icon_color=4facfe&hide_border=true" alt="Sarveshwaran's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarveshwaran777&bg_color=0f172a&color=00f2fe&line=4facfe&point=ffffff&area=true&hide_border=true" alt="Sarveshwaran's Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshwaran777&layout=compact&bg_color=030712&title_color=00f2fe&text_color=9ca3af&icon_color=4facfe&border_color=1f2937&border_radius=8" alt="Sarveshwaran's Top Languages" height="195" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarveshwaran777&bg_color=030712&color=9ca3af&line=00f2fe&point=ffffff&area=true&hide_border=true" alt="Sarveshwaran's Activity Graph" height="195" />
 </p>
 
 <br />
