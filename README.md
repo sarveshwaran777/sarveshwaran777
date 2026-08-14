@@ -9,7 +9,7 @@
   <a href="https://github.com/sarveshwaran777">
     <img src="https://img.shields.io/badge/Status-Active_Developer-00f2fe?style=for-the-badge&logo=rocket&logoColor=0f172a&labelColor=0f172a" alt="Status Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/sarveshwaran-m/">
+  <a href="https://www.linkedin.com/in/sarveshwaran-m-9b8913351/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-7928ca?style=for-the-badge&logo=linkedin&logoColor=00f2fe&labelColor=0f172a" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:sarveshwaran.m.eee@gmail.com">
