@@ -98,26 +98,17 @@ const sarveshwaran = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sarveshwaran777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00f2fe&icon_color=7928ca&text_color=94a3b8" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshwaran777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00f2fe&text_color=94a3b8" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarveshwaran777&theme=tokyonight&hide_border=true&background=0f172a&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" width="97%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarveshwaran777&theme=tokyonight&hide_border=true&background=0f172a&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" width="100%" alt="GitHub Streak Stats" />
 
 </div>
 
 ---
 
-### 🐍 Activity Graph & Snake Grid
+### 📈 Activity Metrics & Contribution Graph
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarveshwaran777/sarveshwaran777/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarveshwaran777/sarveshwaran777/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sarveshwaran777/sarveshwaran777/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarveshwaran777&theme=tokyo-night&hide_border=true&bg_color=0f172a" width="100%" alt="GitHub Activity Graph" />
 
 </div>
 
