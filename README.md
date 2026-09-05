@@ -71,7 +71,7 @@ const sarveshwaran: Developer = {
   ],
   reachOut: {
     linkedin: "https://www.linkedin.com/in/sarveshwaran-m-9b8913351/",
-    email: "sarveshwaran.m.eee@gmail.com"
+    email: "sarvesh729.07@gmail.com"
   }
 };
 ```
