@@ -30,6 +30,16 @@
 
 ### 🔮 Developer Console `// Identity & Specialization`
 
+<table>
+  <thead>
+    <tr>
+      <th align="left"><b>🔴 &nbsp; 🟡 &nbsp; 🟢 &nbsp; <code>sarveshwaran.ts</code> &nbsp; — &nbsp; Developer Specification</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+
 ```typescript
 interface Developer {
   name: string;
@@ -53,13 +63,23 @@ const sarveshwaran: Developer = {
     "Cybersecurity Tools & Network Analysis (Python Scanners / Security Scripts)"
   ],
   currentMission: "Pioneering intelligent digital twins, AI-driven web apps, and embedded smart automation.",
-  superpowers: ["Fast Prototyping", "Full-Stack Architecture", "Hardware-Software Integration", "Deep Problem Solving"],
+  superpowers: [
+    "Fast Prototyping",
+    "Full-Stack Architecture",
+    "Hardware-Software Integration",
+    "Deep Problem Solving"
+  ],
   reachOut: {
     linkedin: "https://www.linkedin.com/in/sarveshwaran-m-9b8913351/",
     email: "sarveshwaran.m.eee@gmail.com"
   }
 };
 ```
+
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
