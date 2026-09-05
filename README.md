@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/sarveshwaran-m-9b8913351/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-7928ca?style=for-the-badge&logo=linkedin&logoColor=00f2fe&labelColor=0f172a" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:sarveshwaran.m.eee@gmail.com">
+  <a href="mailto:sarvesh729.07@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-ff007f?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0f172a" alt="Email Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=sarveshwaran777&style=for-the-badge&color=00f2fe&label=PROFILE+VIEWS" alt="Profile Views" />
